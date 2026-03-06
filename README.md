@@ -53,24 +53,6 @@ An interactive dashboard was created using Power BI to visualize key business me
 * Top Products
 * Sales by Region
 
-## Project Structure
-
-retail-sales-analysis
-│
-├── data
-│   └── superstore.xls
-│
-├── sql
-│   └── SQL-Querries.sql
-│
-├── powerbi
-│   └── Retail_Sales_Dashboard.pbix
-│
-├── excel
-│   └── Excel_Analysis.csv
-│
-└── README.md
-
 ## Key Insights
 * Technology category generated the highest profit
 * Certain months showed higher sales trends compared to others
